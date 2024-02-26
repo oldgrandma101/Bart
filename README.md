@@ -1,5 +1,5 @@
 # Bart
-Code for Autonomous HoverCraft using Arduino nano controller
+Code for Autonomous HoverCraft using Arduino nano controller in arduino.
 
 Bart is the name of the autonomous Hovercraft my team designed, built and programmed for a school project.
 This repository contains the .ino file we uploaded onto the Microcontroller to control the autonomous hovercraft.
