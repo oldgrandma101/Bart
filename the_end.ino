@@ -1,8 +1,4 @@
-// Engr 290 Section F
-// Team 2
-// Hovercraft Code 
 
-//
 
 //AVR Libraries to access registers
 #include <avr/io.h>
