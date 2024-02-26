@@ -6,7 +6,6 @@ This repository contains the .ino file we uploaded onto the Microcontroller to c
 
 
 
-Design Specifications:
 
 Bart was designed to be an autonomous hovercraft capable of successfully and efficiently completing a maze with three obstacles of increasing height, while optimizing speed and
 minimizing the number of components used. The hovercraft should be able to clear obstacles of 1mm, 2mm and 3mm. It should also perform 90 and 180-degree turns in the final
