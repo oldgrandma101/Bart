@@ -40,6 +40,12 @@ The parts used for this Hovercraft:
 <img width="213" alt="Screenshot 2024-11-08 at 7 44 58 PM" src="https://github.com/user-attachments/assets/308187eb-2e7e-494a-babc-90eadd511314">
 
 
+video of hovercraft:
+
+https://drive.google.com/file/d/1sGaZAf7c-NiLk-FZn2Pdom3rC9MNbFPn/view?usp=drive_link
+
+
+
 
 
   
